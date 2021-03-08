@@ -29,6 +29,8 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.idea
+.vscode
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -121,5 +123,3 @@ results
 *.pyx
 struture/representers/setup.py
 demo_results
-.vscode
-.idea
